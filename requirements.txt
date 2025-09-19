@@ -8,5 +8,5 @@ timm==0.9.16
 imdlbenco==0.1.42
 numpy==1.26.4
 opencv-python-headless==4.8.1.78
-Pillow==10.2.0
+Pillow>=11.0.0
 scikit-image==0.22.0
